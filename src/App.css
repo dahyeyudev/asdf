@@ -5,6 +5,7 @@ asdfafd
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
